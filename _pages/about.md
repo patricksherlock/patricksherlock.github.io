@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a Technical Research Associate at MIT working with [Prof. Evelina Fedorenko](https://evlab.mit.edu/). My research interests can be split into 3 main branches: 1) understanding the neural correlates and computations that allow for efficient and effective language use behaviors, 2) applying this knowledge to improving outcomes for atypical and clinical populations for whom language use is impaired, and 3) aggregating these findings with evolutionary biology and philosophy to develop an account of cognitive-communicative evolution in both human and non-human animals.
+I am currently a Technical Research Associate at MIT working with [Prof. Evelina Fedorenko](https://evlab.mit.edu/). My research interests can be split into 3 main branches: 1) understanding the neural correlates and computations that allow for efficient and effective language use behaviors, 2) applying this knowledge to improving outcomes for atypical and clinical populations for whom language use is impaired, and 3) aggregating these findings with insights from evolutionary biology and philosophy to develop an account of cognitive-communicative evolution in both human and non-human animals.
 
 Before coming to MIT, I spent 2 years at Vanderbilt University as the Lab Manager for the Conversation lab with [Prof. Sarah Brown-Schmidt](https://www.sarahbrownschmidt.com/). Our work focused on understanding the differences in processing demands between language comprehension and production in both neurotyipcal populations and people with traumatic brain injury (TBI).
 
