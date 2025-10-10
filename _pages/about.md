@@ -8,11 +8,14 @@ redirect_from:
 ---
 
 
-I am currently a Technical Research Associate at MIT working with [Prof. Evelina Fedorenko](https://evlab.mit.edu/). I am broadly interested in understanding how brains and minds do langauge and where these abiltiies come form. More specifically, I'm interested in:
-1. Understanding the neural correlates and computations that allow for efficient and effective language use behaviors
-2. Applying this knowledge to improving outcomes for atypical and clinical populations for whom language use is impaired
-3. Aggregating these findings with insights from evolutionary biology and philosophy to develop an account of cognitive-communicative evolution in both human and non-human animals.
+I am currently a Technical Research Associate at MIT working with [Prof. Evelina (Ev) Fedorenko](https://evlab.mit.edu/) in the [Department of Brain and Cognitive Sciences](https://bcs.mit.edu/) and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu/).
 
-Before coming to MIT, I spent 2 years at Vanderbilt University as the Lab Manager for the Conversation lab with [Prof. Sarah Brown-Schmidt](https://www.sarahbrownschmidt.com/). Our work focused on understanding the differences in processing demands between language comprehension and production in both neurotyipcal populations and people with traumatic brain injury (TBI).
+I am interested in the neural basis of langauge and where these linguistic abiltiies come form. More specifically, I want to:
+
+1. Understand the neural correlates and computations that allow for efficient and effective language use behaviors across a wide range of contexts.
+2. Develop a rich account of cognitive-communicative evolution in both human and non-human animals using insights from evolutionary biology and philosophy.
+3. Leverage these findings for improving outcomes for atypical and clinical populations for whom language use is impaired.
+
+Before coming to MIT, I spent 2 years at Vanderbilt University as the Lab Manager for the Conversation lab with [Prof. Sarah Brown-Schmidt](https://www.sarahbrownschmidt.com/) in the [Department of Psychology and Human Development](https://peabody.vanderbilt.edu/academics/departments/psych/). Our work focused on understanding the differences in processing demands between language comprehension and production in both neurotypical populations and people with traumatic brain injury (TBI).
 
 I completed my BS in neuroscience with a minor in linguistics at the University of Southern California. There, I worked in the Psycholingusitics of Mono- and Multilingualism Lab with [Prof. Zuzanna Fuchs](https://www.zuzannazfuchs.com/) studying how noun classification systems such as grammatical gender are instantiated in the grammars of both monolingual and multilingual speakers. I also worked in the [Laboratory of Neuroimaging](https://loni.usc.edu/) with Prof. Jeiran Choupan and Prof. Kirsten Lynch studying perivascular spaces (PVS) and their relationship with cerebrovasculature.
