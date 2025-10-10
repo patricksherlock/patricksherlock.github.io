@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. Neursocience, Minor linguistics
+* B.S. Neuroscience, Minor linguistics
     * 2023, University of Southern California
 
 Research Positions
