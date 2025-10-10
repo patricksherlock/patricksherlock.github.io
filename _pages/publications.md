@@ -11,19 +11,19 @@ author_profile: true
 Manuscripts
 ======
 Moderate-severe traumatic brain injury disrupts core mechanisms of online language processing and use.
-* Lord, K., Kekes-Szabo, S., Sherlock, P., Duff, M.C., & Brown-Schmidt, S. _Under revision_. _Cortex_.
+* Lord, K., Kekes-Szabo, S., Sherlock, P., Duff, M.C., & Brown-Schmidt, S. _Under revision_. _Cortex_.  
 Moderate-severe traumatic brain injury disrupts online grammatical processing.
-* Sherlock, P., Duff, M.C., & Brown-Schmidt, S. _In preparation_.
+* Sherlock, P., Duff, M.C., & Brown-Schmidt, S. _In preparation_.  
 Moderate-severe traumatic brain injury disrupts online referential processing.
-* Sherlock, P., Duff, M.C., & Brown-Schmidt, S. _In preparation_.
+* Sherlock, P., Duff, M.C., & Brown-Schmidt, S. _In preparation_.  
 Different demands, different memory: Conversational role and memory for the contexts of language use.
 * Lord, K., Zhou, Y., Sherlock, P., & Brown-Schmidt, S. _In preparation_.
 
 Conference Abstracts
 ======
 The impact of TBI on the use of referential context in syntactic ambiguity resolution.
-* Sherlock, P., Duff, M.C., & Brown-Schmidt, S. _Human Sentence Processing_. College Park, MD, USA. 27-29, March 2025. _\[Poster\]_
+* Sherlock, P., Duff, M.C., & Brown-Schmidt, S. _Human Sentence Processing_. College Park, MD, USA. 27-29, March 2025. _\[Poster\]_  
 Referential modification and memory for object features.
-* Volante, C., Diachek, E., Sherlock, P., & Brown-Schmidt, S. _Human Sentence Processing_. Ann Arbor, MI, USA. 16-18, May 2024. _\[Poster\]_
+* Volante, C., Diachek, E., Sherlock, P., & Brown-Schmidt, S. _Human Sentence Processing_. Ann Arbor, MI, USA. 16-18, May 2024. _\[Poster\]_  
 Anterior and middle cerebral artery caliber and PVS size in young adults.
 * Sherlock, P., Lynch, K., Choupan, J., & Toga, A. _Organization for Human Brain Mapping_. Glasgow, Scotland, UK. 19-23, June 2022. _\[Poster\]_
