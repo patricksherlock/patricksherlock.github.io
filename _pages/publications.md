@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
-======
 [Weakly supervised perivascular spaces segmentation with salient guidance of Frangi filter.](https://onlinelibrary.wiley.com/doi/10.1002/mrm.29593)
 * Lan, H., Lynch, K., Custer, R., Shih, N., Sherlock, P., Sepehrband, F., Toga, A., & Choupan, J. (2023). _Magnetic Resonance in Medicine_, 89, 6, 2419-2431.
 
