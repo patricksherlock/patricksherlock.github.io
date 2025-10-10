@@ -10,11 +10,11 @@ redirect_from:
 
 I am currently a Technical Research Associate at MIT working with [Prof. Evelina (Ev) Fedorenko](https://evlab.mit.edu/) in the [Department of Brain and Cognitive Sciences](https://bcs.mit.edu/) and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu/).
 
-I am interested in the neural basis of langauge and where these linguistic abiltiies come form. More specifically, I want to:
+I am interested in the neural basis of langauge and where these linguistic abiltiies come from. More specifically, I want to:
 
 1. Understand the neural correlates and computations that allow for efficient and effective language use behaviors across a wide range of contexts.
 2. Develop a rich account of cognitive-communicative evolution in both human and non-human animals using insights from evolutionary biology and philosophy.
-3. Leverage these findings for improving outcomes for atypical and clinical populations for whom language use is impaired.
+3. Leverage these findings for improving outcomes in atypical and clinical populations for whom language use is impaired.
 
 Before coming to MIT, I spent 2 years at Vanderbilt University as the Lab Manager for the Conversation lab with [Prof. Sarah Brown-Schmidt](https://www.sarahbrownschmidt.com/) in the [Department of Psychology and Human Development](https://peabody.vanderbilt.edu/academics/departments/psych/). Our work focused on understanding the differences in processing demands between language comprehension and production in both neurotypical populations and people with traumatic brain injury (TBI).
 
