@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Technical Research Associate at MIT working with [Prof. Evelina (Ev) Fedorenko](https://evlab.mit.edu/) in the [Department of Brain and Cognitive Sciences](https://bcs.mit.edu/) and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu/).
 
-I am interested in the neural basis of langauge and where these linguistic abiltiies come from. More specifically, I want to:
+I am interested in the neural basis of langauge and where these linguistic abilities come from. More specifically, I want to:
 
 1. Understand the neural correlates and computations that allow for efficient and effective language use behaviors across a wide range of contexts.
 2. Develop a rich account of cognitive-communicative evolution in both human and non-human animals using insights from evolutionary biology and philosophy.
