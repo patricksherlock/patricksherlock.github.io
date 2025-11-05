@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. Neuroscience, Minor Linguistics
-    * 2023, University of Southern California
+#### B.S. Neuroscience, Minor Linguistics
+2023, University of Southern California
 
 Research Positions
 ======
-* Technical Associate, Advised by Dr. Evelina (Ev) Fedorenko
-    * 2025-present, MIT
-* Project Coordinator, Advised by Dr. Sarah Brown-Schmidt
-    * 2023-2025, Vanderbilt University
-* Research Assistant, Advised by Dr. Zuzanna Fuchs
-    * 2022-2023, University of Southern California
-* Research Assistant, Advised by Dr. Kirsten Lynch, Dr. Jeiran Choupan
-    * 2020-2023, University of Southern California
+#### Technical Associate, Advised by Dr. Evelina (Ev) Fedorenko
+2025-present, MIT
+#### Project Coordinator, Advised by Dr. Sarah Brown-Schmidt
+2023-2025, Vanderbilt University
+#### Research Assistant, Advised by Dr. Zuzanna Fuchs
+2022-2023, University of Southern California
+#### Research Assistant, Advised by Dr. Kirsten Lynch, Dr. Jeiran Choupan
+2020-2023, University of Southern California
 
 Publications
 ======
@@ -31,7 +31,8 @@ Publications
 
 Manuscripts
 ======
-* Lord, K., Kekes-Szabo, S., Sherlock, P., Duff, M.C., & Brown-Schmidt, S. (2025). _Under revision_. Moderate-severe traumatic brain injury disrupts core mechanisms of online language processing and use. _Cortex_.
+* Casto, C., Poliak, M., Tuckute, G., Small, H., Sherlock, P., Wolna, A., Lipkin, B., D’Mello, A. M., & Fedorenko, E. _Submitted_. The cerebellar components of the human language network. _Neuron_.
+* Lord, K., Kekes-Szabo, S., Sherlock, P., Duff, M.C., & Brown-Schmidt, S. _Under revision_. Moderate-severe traumatic brain injury disrupts core mechanisms of online language processing and use. _Cortex_.
 * Sherlock, P., Duff, M.C., & Brown-Schmidt, S. _In preparation_. Moderate-severe traumatic brain injury disrupts online grammatical processing.
 * Sherlock, P., Duff, M.C., & Brown-Schmidt, S. _In preparation_. Moderate-severe traumatic brain injury disrupts online referential processing.
 * Lord, K., Zhou, Y., Sherlock, P., & Brown-Schmidt, S. _In preparation_. Different demands, different memory: Conversational role and memory for the contexts of language use.
@@ -44,33 +45,33 @@ Conference Abstracts
 
 Guest Lectures
 ======
-* "Applying to Postbac Research Positions" at the Summer Professional Development Series for Undergraduate Trainees
-    * Facilitator: Dr. Whitney Barnett, Vanderbilt University
-* "Language and Conversational Memory in Law and Policy" in PSY-PC 7500: Advanced Topical Seminar: Cognition in the Real World
-    * Instructor: Dr. Lisa Fazio, Vanderbilt University
+#### "Applying to Postbac Research Positions" at the Summer Professional Development Series for Undergraduate Trainees
+Facilitator: Dr. Whitney Barnett, Vanderbilt University
+#### "Language and Conversational Memory in Law and Policy" in PSY-PC 7500: Advanced Topical Seminar: Cognition in the Real World
+Instructor: Dr. Lisa Fazio, Vanderbilt University
 
 Additional Training
 ======
-* NASSLLI Volunteer and Attendee
-    * 2022, University of Southern California
+#### NASSLLI Volunteer and Attendee
+2022, University of Southern California
 
 Outreach
 ======
-* "What it Means to be Human" course taught through MIT Splash
-    * 2025, Cambridge, MA
-* "The Science of Language and Bilingualism" booth at the Glendale Spanish Immersion Elementary School science fair
-    * 2024, Oak Hill, TN
+#### "What it Means to be Human" course taught through MIT Splash
+2025, Cambridge, MA
+#### "The Science of Language and Bilingualism" booth at the Glendale Spanish Immersion Elementary School science fair
+2024, Oak Hill, TN
 
 Technical Proficiency
 ======
-* Coding
-    * Python (PsychoPy, PyLink, Pandas), Bash, SLURM, R, MATLAB, Git
-* Methodologies
-    * fMRI, Eye-Tracking
-* Data-Collection
-    * Gorilla, Prolific, Qualtrics, REDCap, SONA, PCIbex
-* Applications
-    * Jupyter, Praat, Microsoft Office Suite, Google Workspaces, Gephi
+#### Coding
+Python (PsychoPy, PyLink, Pandas), Bash, SLURM, R, MATLAB, Git
+#### Methodologies
+fMRI, Eye-Tracking
+#### Data-Collection
+Gorilla, Prolific, Qualtrics, REDCap, SONA, PCIbex
+#### Applications
+Jupyter, Praat, Microsoft Office Suite, Google Workspaces, Gephi
 
 Natural Languages
 ======
