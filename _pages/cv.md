@@ -7,4 +7,4 @@ nav_order: 2
 ---
 
 <!-- _pages/cv.md -->
-[CV]("cv.pdf")
+[CV](cv.pdf)
