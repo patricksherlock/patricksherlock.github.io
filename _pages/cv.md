@@ -1,5 +1,5 @@
-<object data="patricksherlock.github.io"
-        type="files/cv.pdf"
+<object data="patricksherlock.github.io/files/cv.pdf"
+        type="application/pdf"
         width="100%"
         height="800px">
   <!-- Fallback content if the browser cannot display the PDF -->
