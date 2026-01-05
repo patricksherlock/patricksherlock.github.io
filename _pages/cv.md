@@ -1,3 +1,7 @@
-<iframe src="patricksherlock.github.io/files/cv.pdf" width="100%" height="500px">
-  <p>Your browser does not support iframes. You can <a href="patricksherlock.github.io/files/cv.pdf">download the PDF</a> instead.</p>
-</iframe>
+<object data="patricksherlock.github.io"
+        type="files/cv.pdf"
+        width="100%"
+        height="800px">
+  <!-- Fallback content if the browser cannot display the PDF -->
+  <p>Your browser does not support PDFs. You can <a href="patricksherlock.github.io/files/cv.pdf">download the PDF file here</a>.</p>
+</object>
