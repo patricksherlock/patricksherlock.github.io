@@ -7,5 +7,4 @@ nav_order: 2
 ---
 
 <!-- _pages/cv.md -->
-# [CV](cv.pdf)
-<embed src="cv.pdf" type="application/pdf" width="100%" height="800px" />
+<p style="text-align: center;"># [CV](cv.pdf)</p>
