@@ -7,4 +7,4 @@ nav_order: 2
 ---
 
 <!-- _pages/cv.md -->
-<p style="text-align: center;"># [CV](cv.pdf)</p>
+# [CV](cv.pdf)
