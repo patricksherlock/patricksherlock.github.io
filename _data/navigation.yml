@@ -1,6 +1,6 @@
 main:
   - title: "CV"
-    url: /blob/master/files/CV.pdf
+    url: /files/CV.pdf
     target: '_blank'
     
   - title: "Publications"
