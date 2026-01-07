@@ -1,7 +1,7 @@
 main:
   - title: "CV"
     url: /files/CV.pdf
-    # target: '_blank'
+    target: '_blank'
     
   - title: "Publications"
     url: /publications/
