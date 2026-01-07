@@ -1,6 +1,6 @@
 main:
   - title: "CV"
-    url: /https://github.com/patricksherlock/patricksherlock.github.io/blob/master/files/CV.pdf
+    url: /blob/master/files/CV.pdf
     target: '_blank'
     
   - title: "Publications"
