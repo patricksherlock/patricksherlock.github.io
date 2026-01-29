@@ -25,7 +25,7 @@ Lan, H., Lynch, K., Custer, R., Shih, N., **Sherlock, P.**, Sepehrband, F., Toga
 
 ### Moderate-severe traumatic brain injury disrupts core mechanisms of online language processing and use.
 
-Lord, K., Kekes-Szabo, S., **Sherlock, P.**, Duff, M.C., & Brown-Schmidt, S. <i>Under revision</i>. <i>Cortex</i>.
+Lord, K., Kekes-Szabo, S., **Sherlock, P.**, Duff, M.C., & Brown-Schmidt, S. <i>Accepted</i>. <i>Cortex</i>.
 
 ### Moderate-severe traumatic brain injury disrupts online grammatical processing.
 
