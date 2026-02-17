@@ -11,6 +11,10 @@ nav_order: 2
 
 ## Peer-Reviewed Publications
 
+### [Moderate-severe traumatic brain injury disrupts core mechanisms of online language processing and use.](https://www.sciencedirect.com/science/article/abs/pii/S0010945226000389)
+
+Lord, K., Kekes-Szabo, S., **Sherlock, P.**, Duff, M.C., & Brown-Schmidt, S. <i>In press</i>. <i>Cortex</i>.
+
 ### [The cerebellar components of the human language network.](https://www.cell.com/neuron/fulltext/S0896-6273(25)00986-9)
 
 Casto, C., Poliak, M., Tuckute, G., Small, H., **Sherlock, P.**, Wolna, A., Lipkin, B., D’Mello, A. M., & Fedorenko, E. <i>In press</i>. <i>Neuron</i>.
@@ -23,9 +27,6 @@ Lan, H., Lynch, K., Custer, R., Shih, N., **Sherlock, P.**, Sepehrband, F., Toga
 
 ## Manuscripts
 
-### Moderate-severe traumatic brain injury disrupts core mechanisms of online language processing and use.
-
-Lord, K., Kekes-Szabo, S., **Sherlock, P.**, Duff, M.C., & Brown-Schmidt, S. <i>Accepted</i>. <i>Cortex</i>.
 
 ### Moderate-severe traumatic brain injury disrupts online grammatical processing.
 
