@@ -11,15 +11,15 @@ nav_order: 2
 
 ## Peer-Reviewed Publications
 
-### [Moderate-severe traumatic brain injury disrupts core mechanisms of online language processing and use.](https://www.sciencedirect.com/science/article/abs/pii/S0010945226000389)
+### [Moderate-severe traumatic brain injury disrupts core mechanisms of online language processing and use.](https://www.sciencedirect.com/science/article/abs/pii/S0010945226000389){:target="_blank"}
 
 Lord, K., Kekes-Szabo, S., **Sherlock, P.**, Duff, M.C., & Brown-Schmidt, S. <i>In press</i>. <i>Cortex</i>.
 
-### [The cerebellar components of the human language network.](https://www.cell.com/neuron/fulltext/S0896-6273(25)00986-9)
+### [The cerebellar components of the human language network.](https://www.cell.com/neuron/fulltext/S0896-6273(25)00986-9){:target="_blank"}
 
 Casto, C., Poliak, M., Tuckute, G., Small, H., **Sherlock, P.**, Wolna, A., Lipkin, B., D’Mello, A. M., & Fedorenko, E. <i>In press</i>. <i>Neuron</i>.
 
-### [Weakly supervised perivascular spaces segmentation with salient guidance of Frangi filter.](https://onlinelibrary.wiley.com/doi/10.1002/mrm.29593)
+### [Weakly supervised perivascular spaces segmentation with salient guidance of Frangi filter.](https://onlinelibrary.wiley.com/doi/10.1002/mrm.29593){:target="_blank"}
 
 Lan, H., Lynch, K., Custer, R., Shih, N., **Sherlock, P.**, Sepehrband, F., Toga, A., & Choupan, J. (2023). <i>Magnetic Resonance in Medicine</i>, 89, 6, 2419-2431.
 
