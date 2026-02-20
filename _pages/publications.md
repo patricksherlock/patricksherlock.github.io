@@ -11,7 +11,7 @@ nav_order: 2
 
 ## Peer-Reviewed Publications
 
-### [Moderate-severe traumatic brain injury disrupts core mechanisms of online language processing and use.](https://www.sciencedirect.com/science/article/abs/pii/S0010945226000389)
+### [Moderate-severe traumatic brain injury disrupts core mechanisms of online language processing and use.](https://www.sciencedirect.com/science/article/pii/S0010945226000389?dgcid=author)
 
 Lord, K., Kekes-Szabo, S., **Sherlock, P.**, Duff, M.C., & Brown-Schmidt, S. <i>In press</i>. <i>Cortex</i>.
 
