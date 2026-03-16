@@ -54,4 +54,4 @@ Volante, C., Diachek, E., **Sherlock, P.**, & Brown-Schmidt, S. <i>Human Sentenc
 
 ## Anterior and middle cerebral artery caliber and PVS size in young adults.
 
-<span style="color: #D6D6D6;">**Sherlock, P.**, Lynch, K., Choupan, J., & Toga, A. <i>Organization for Human Brain Mapping</i>. Glasgow, Scotland, UK. 19-23, June 2022. <i>[Poster]</i></span>
+**Sherlock, P.**, Lynch, K., Choupan, J., & Toga, A. <i>Organization for Human Brain Mapping</i>. Glasgow, Scotland, UK. 19-23, June 2022. <i>[Poster]</i>
