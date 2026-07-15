@@ -26,22 +26,6 @@ Lan, H., Lynch, K., Custer, R., Shih, N., **Sherlock, P.**, Sepehrband, F., Toga
 
 ---
 
-# Manuscripts
-
-## Moderate-severe traumatic brain injury disrupts online grammatical processing.
-
-**Sherlock, P.**, Duff, M.C., & Brown-Schmidt, S. <i>In preparation</i>.
-
-## Moderate-severe traumatic brain injury disrupts online referential processing.
-
-**Sherlock, P.**, Duff, M.C., & Brown-Schmidt, S. <i>In preparation</i>.
-
-## Different demands, different memory: Conversational role and memory for the contexts of language use.
-
-Lord, K., Zhou, Y., **Sherlock, P.**, & Brown-Schmidt, S. <i>In preparation</i>.
-
----
-
 # Conference Abstracts
 
 ## The impact of TBI on the use of referential context in syntactic ambiguity resolution.
