@@ -2,13 +2,10 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: "* denotes equal contribution."
 nav: true
 nav_order: 2
 author_profile: true
 ---
-
-<!-- _pages/publications.md -->
 
 # Peer-Reviewed Publications
 
