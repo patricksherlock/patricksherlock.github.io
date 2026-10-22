@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Peer-Reviewed Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
+# Peer-Reviewed Publications
 * Lord, K., Kekes-Szabo, S., **Sherlock, P.**, Duff, M.C., & Brown-Schmidt, S. (2026). <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010945226000389?via%3Dihub">Moderate-severe traumatic brain injury disrupts core mechanisms of online language processing and use.</a> <i>Cortex</i>, 197, 13-33. DOI: 10.1016/j.cortex.2026.01.010.
 
 * Casto, C., Poliak, M., Tuckute, G., Small, H., **Sherlock, P.**, Wolna, A., Lipkin, B., D’Mello, A. M., & Fedorenko, E. (2026). <a href="https://www.sciencedirect.com/science/article/pii/S0896627325009869?via%3Dihub">The cerebellar components of the human language network.</a> <i>Neuron</i>, 114(8), 1504-1523. DOI: 10.1016/j.neuron.2025.12.030.
