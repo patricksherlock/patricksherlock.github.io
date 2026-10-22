@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: archive
+title: "Publications"
 permalink: /publications/
-title: Publications
-nav: true
-nav_order: 2
 author_profile: true
 ---
 
