@@ -15,8 +15,8 @@ author_profile: true
 ---
 
 # Conference Abstracts
-* **Sherlock, P.**, Duff, M.C., & Brown-Schmidt, S. The impact of TBI on the use of referential context in syntactic ambiguity resolution. <i>Human Sentence Processing</i>. College Park, MD, USA. 27-29, March 2025. <i>[Poster]</i>
+* **Sherlock, P.**, Duff, M.C., & Brown-Schmidt, S. <a href="https://hsp2025.github.io/abstracts/144.pdf">The impact of TBI on the use of referential context in syntactic ambiguity resolution.</a> <i>Human Sentence Processing</i>. College Park, MD, USA. 27-29, March 2025. <i>[Poster]</i>
 
-* Volante, C., Diachek, E., **Sherlock, P.**, & Brown-Schmidt, S. Referential modification and memory for object features. <i>Human Sentence Processing</i>. Ann Arbor, MI, USA. 16-18, May 2024. <i>[Poster]</i>
+* Volante, C., Diachek, E., **Sherlock, P.**, & Brown-Schmidt, S. <a href="https://hsp2024.github.io/abstracts/submission_148.pdf">Referential modification and memory for object features.</a> <i>Human Sentence Processing</i>. Ann Arbor, MI, USA. 16-18, May 2024. <i>[Poster]</i>
 
 * **Sherlock, P.**, Lynch, K., Choupan, J., & Toga, A. Anterior and middle cerebral artery caliber and PVS size in young adults. <i>Organization for Human Brain Mapping</i>. Glasgow, Scotland, UK. 19-23, June 2022. <i>[Poster]</i>
